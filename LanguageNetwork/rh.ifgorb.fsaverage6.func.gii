@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE GIFTI SYSTEM "http://www.nitrc.org/frs/download.php/115/gifti.dtd">
+<GIFTI Version="1.0" NumberOfDataArrays="1"><MetaData><MD><Name>AnatomicalStructurePrimary</Name><Value>CortexRight</Value></MD><MD><Name>Template</Name><Value>fsaverage6</Value></MD></MetaData><LabelTable /><DataArray Intent="NIFTI_INTENT_LABEL" DataType="NIFTI_TYPE_UINT8" ArrayIndexingOrder="RowMajorOrder" Dimensionality="1" Encoding="GZipBase64Binary" Endian="LittleEndian" ExternalFileName="" ExternalFileOffset="0" Dim0="40962"><MetaData /><CoordinateSystemTransformMatrix><DataSpace>NIFTI_XFORM_UNKNOWN</DataSpace><TransformedSpace>NIFTI_XFORM_UNKNOWN</TransformedSpace><MatrixData>  1.000000   0.000000   0.000000   0.000000
+  0.000000   1.000000   0.000000   0.000000
+  0.000000   0.000000   1.000000   0.000000
+  0.000000   0.000000   0.000000   1.000000</MatrixData></CoordinateSystemTransformMatrix><Data>eJzt21EKhCAQANDm/pdeaCEKXChxc9T3foJ+UsZpTHPbSqJ4F8YTYTTnEZtwzG2d+JY6ukzn4bdTGqi/qYgG7UVI89RuB0cgmZ8hDjymPDKLMG2HkUlgKlQNGVt3kI6cBFK57v96ReUhFvyBJM/tfnREEgBSiLDODyQXh94tAYD3neqgSgjMpuccf3+27wwAIDMTFQAAqGFThVlYwQYe8osdC2k4zuUNAABAgbN8AHT2rUCKEQBAG3HVuzkAZJGwKMRxVbYAAHidM4kAAMAIPhtNALU=</Data></DataArray></GIFTI>
